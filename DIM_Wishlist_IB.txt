@@ -1,0 +1,42 @@
+title:MrAdequate's Iron Banner Weapon Rolls
+
+description:Work in Progress
+
+
+/// Season of the Forge
+
+/// CRIMIL'S DAGGER - Legendary / Kinetic / Hand Cannon
+dimwishlist:item=4292849692&perks=1926090092,4134353779,2846385770,1015611457#notes:PVP KC 2-tap
+dimwishlist:item=4292849692&perks=1926090092,3142289711,2846385770,2387244414#notes:Ranged PVP Roll
+
+/// THE HERO'S BURDEN - Legendary / Energy / Submachine Gun
+dimwishlist:item=1865351684&perks=3151536500,1885400500,2387244414,1890422124#notes:PVP Accuracy Roll
+dimwishlist:item=1865351684&perks=3151536500,1885400500,2387244414,1015611457#notes:PVP Damage Dealer
+
+
+/// Season of the Drifter
+
+/// OREWING'S MAUL - Legendary / Energy / Grenade Launcher
+dimwishlist:item=2108920981&perks=3525010810,409831596,706527188,3300816228#notes:PVP backup weapon
+
+/// THE WIZENED REBUKE - Legendary / Energy / Fusion Rifle
+dimwishlist:item=930590127&perks=2405638014,1687452232,1645158859,2213355989#notes:PVP
+dimwishlist:item=930590127&perks=2405638014,1687452232,1645158859,1600092898#notes:PVP backup weapon
+
+
+/// Season of Opulence
+
+/// GUNNORA'S AXE - Legendary / Energy / Shotgun
+dimwishlist:item=2326716489&perks=1840239774,791862061,2117683199,47981717#notes:PVP
+
+/// SHINING SPHERE - Legendary / Power / Rocket Launcher
+dimwishlist:item=136525518&perks=3798852852,2822142346,957782887,3977735242#notes:PVP
+
+
+/// Season of Dawn
+
+/// POINT OF THE STAG - Legendary / Energy / Combat Bow
+dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,1546637391
+dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795

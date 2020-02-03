@@ -1,0 +1,97 @@
+title:MrAdequate's Season of the Drifter God Rolls
+
+
+/// Event - The Revelry
+
+/// ARBALEST - Exotic / Kinetic / Linear Fusion Rifle
+dimwishlist:item=2130065553&perks=2564164194,1467527085,2969185026,1683379515,3465198467
+
+
+/// Exotic Quests
+
+/// THORN - Exotic / Kinetic / Hand Cannon
+dimwishlist:item=3973202132&perks=1863355414,4090651448,3142289711,2921090754,3917450714
+
+
+/// Mission - Zero Hour
+
+/// OUTBREAK PERFECTED - Exotic / Kinetic / Pulse Rifle
+dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954
+
+
+/// Pinnacle Weapons
+
+/// THE RECLUSE - Legendary / Energy / Submachine Gun
+dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624#notes:Best Primary
+
+/// OXYGEN SR3 - Legendary / Energy / Scout Rifle
+dimwishlist:item=3907337522&perks=1392496348,3142289711,3865257976,1941225610#notes:Ok for Ad Clear
+
+/// 21% DELIRIUM - Legendary / Power / Machine Gun
+dimwishlist:item=1600633250&perks=1392496348,2420895100,3643424744,2782457288#notes:Great Ad clear and Major clear weapon
+
+
+/// Vendor Weapons
+
+/// Zavala
+
+/// SERVICE REVOLVER - Legendary / Kinetic / Hand Cannon
+dimwishlist:item=834081972&perks=1926090091,1885400500,2846385770,1015611457#notes:Great PVP Weapon
+
+/// Lord Shaxx
+
+/// LAST PERDITION - Legendary / Energy / Pulse Rifle
+dimwishlist:item=188882152&perks=3151536501,106909392,2846385770,3425386926#notes:Great PVP Roll
+dimwishlist:item=188882152&perks=3151536501,3177308360,2846385770,2387244414#notes:Great PVP Roll for console
+dimwishlist:item=188882152&perks=965619220,106909392,2846385770,3425386926#notes:PVE Roll
+
+
+/// Gambit Prime
+
+/// SPARE RATIONS - Legendary / Kinetic / Hand Cannon
+dimwishlist:item=3116356268&perks=3250034553,1087426260,3643424744,3038247973#notes:Curated Roll
+dimwishlist:item=3116356268&perks=1482024992,1885400500,247725512,2846385770#notes:Great PVP roll
+dimwishlist:item=3116356268&perks=1482024992,1885400500,247725512,3425386926#notes:Great PVE roll
+
+/// LONESOME - Legendary / Kinetic / Sidearm
+dimwishlist:item=2199171672&perks=1392496348,2420895100,3643424744,4082225868#notes:Curated Roll
+dimwishlist:item=2199171672&perks=202670084,1885400500,247725512,47981717#notes:Max Range Roll
+dimwishlist:item=2199171672&perks=202670084,1885400500,1631667848,4082225868#notes:PVE Roll
+
+/// NIGHT WATCH - Legendary / Kinetic / Scout Rifle
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Curated Roll
+dimwishlist:item=3504336176&perks=4090651448,3177308360,247725512,2458213969#notes:PVE Roll
+dimwishlist:item=3504336176&perks=4090651448,3177308360,247725512,3038247973#notes:PVP Roll
+dimwishlist:item=3504336176&perks=4090651448,3177308360,247725512,3425386926#notes:PVP Roll
+
+/// GNAWING HUNGER - Legendary / Energy / Auto Rifle
+dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926#notes:Curated Roll
+dimwishlist:item=821154603&perks=839105230,3142289711,2387244414,1015611457#notes:PVP Roll
+dimwishlist:item=821154603&perks=839105230,106909392,2869569095,2458213969#notes:PVE Roll
+
+/// OUTLAST - Legendary / Energy / Pulse Rifle
+dimwishlist:item=299665907&perks=3250034553,106909392,2387244414,1015611457#notes:Curated Roll
+dimwishlist:item=299665907&perks=839105230,3142289711,2779035018,1015611457#notes:Deadly PVP and PVE roll
+dimwishlist:item=299665907&perks=839105230,3177308360,2846385770,3425386926#notes:PVP Mid-Range Roll
+
+/// BUG-OUT BAG - Legendary / Energy / Submachine Gun
+dimwishlist:item=2744715540&perks=4090651448,1431678320,2039302152,2458213969#notes:Curated Roll
+dimwishlist:item=2744715540&perks=839105230,106909392,1631667848,4082225868#notes:Melee Ad clear roll
+dimwishlist:item=2744715540&perks=839105230,106909392,2387244414,2458213969#notes:Great Ad clear
+
+/// LAST MAN STANDING - Legendary / Energy / Shotgun
+dimwishlist:item=755130877&perks=466087222,791862061,3300816228,2117683199#notes:Curated Roll
+dimwishlist:item=755130877&perks=1332244541,3142289711,47981717,1866048759#notes:PVP Roll
+dimwishlist:item=755130877&perks=1332244541,106909392,1631667848,4082225868#notes:Ad Clear and Major Clear
+dimwishlist:item=755130877&perks=1332244541,106909392,1631667848,2679249093#notes:DPS
+
+/// SOLE SURVIVOR - Legendary / Energy / Sniper Rifle
+dimwishlist:item=1115104187&perks=1467527085,3230963543,1168162263,957782887#notes:Curated Roll
+dimwishlist:item=1115104187&perks=202670084,1087426260,3400784728,1771339417#notes:DPS Machine
+
+/// DOOMSDAY - Legendary / Power / Grenade Launcher
+dimwishlist:item=736901634&perks=981914802,409831596,3300816228,2888557110#notes:Curated Roll
+dimwishlist:item=736901634&perks=3809316345,3301904089,2869569095,2888557110#notes:DPS
+
+/// JUST IN CASE - Legendary / Power / Sword
+dimwishlist:item=715338174&perks=2827049491,3625355092,354401740,818211479#notes:Curated Roll

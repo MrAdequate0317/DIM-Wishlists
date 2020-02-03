@@ -1,0 +1,156 @@
+title:MrAdequate's Black Armory and Season of the Forge God Rolls
+
+
+/// Event Weapons
+
+/// THE VOW - Legendary / Energy / Combat Bow
+dimwishlist:item=2009106091&perks=852209214,1500996326,247725512,201365942#notes:Decent in PVP and for Ad clear
+
+/// AVALANCHE - Legendary / Power / Machine Gun
+dimwishlist:item=66875353&perks=965619220,1885400500,2779035018,3425386926#notes:Decent Ad clear weapon
+dimwishlist:item=66875353&perks=965619221,1885400500,1645158859,2213355989#notes:PVP
+
+
+/// Exotic Quests
+
+/// THE LAST WORD - Exotic / Kinetic / Hand Cannon
+dimwishlist:item=1364093401&perks=2770223582,4090651448,3142289711,1866048759,3917450714
+
+/// IZANAGI'S BURDEN - Exotic / Kinetic / Sniper Rifle
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+
+
+/// Pinnacle Weapons
+
+/// BREAKNECK - Legendary / Kinetic / Auto Rifle
+dimwishlist:item=324382200&perks=1392496348,2420895100,3425386926,95528736#notes:Good for Ad Clear
+
+/// THE MOUNTAINTOP - Legendary / Kinetic / Grenade Launcher
+dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994#notes:Good for DPS
+dimwishlist:item=3993415705&perks=1478423395,3301904089,2846385770,3713839994#notes:Good for DPS
+dimwishlist:item=3993415705&perks=981914802,3373736292,2846385770,3713839994#notes:Great in PVP
+dimwishlist:item=3993415705&perks=1478423395,3373736292,2846385770,3713839994#notes:Great in PVP
+
+/// LOADED QUESTION - Legendary / Energy / Fusion Rifle
+dimwishlist:item=580961571&perks=2405638015,1483536627,3300816228,1427256713#notes:Great for Ad clear and Major clear
+
+
+/// Vendor Weapons
+
+/// Zavala
+
+/// NIGHTSHADE - Legendary / Kinetic / Pulse Rifle
+dimwishlist:item=792755504&perks=2405638015,3177308360,2846385770,1015611457#notes:PVP Roll
+dimwishlist:item=792755504&perks=2405638015,106909392,2010801679,3425386926#notes:PVE
+
+/// PERSUADER - Legendary / Energy / Sniper Rifle
+dimwishlist:item=4083045006&perks=767484757,3142289711,957782887,588594999#notes:PVP roll
+dimwishlist:item=4083045006&perks=767484757,106909392,247725512,3400784728#notes:PVE roll
+
+/// Lord Shaxx
+
+/// DOES NOT COMPUTE - Legendary / Kinetic / Scout Rifle
+dimwishlist:item=2278995296&perks=13792278,3177308360,1866048759,1015611457#notes:PVP roll
+
+/// WISHBRINGER - Legendary / Energy / Shotgun
+dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,47981717#notes:PVP God roll
+
+
+/// Black Armory Forge Weapons
+
+/// LE MONARQUE - Exotic / Energy / Combat Bow
+dimwishlist:item=3588934839&perks=2186532310,1784898267,16392701,957782887
+
+/// JÖTUNN - Exotic / Energy / Fusion Rifle
+dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869
+
+/// THE SPITEFUL FANG - Legendary / Kinetic / Combat Bow
+dimwishlist:item=421573768&perks=1784898267,3429800428,201365942,3365897133#notes:Curated Roll
+
+/// BLAST FURNACE - Legendary / Kinetic / Pulse Rifle
+dimwishlist:item=3843477312&perks=3433396027,106909392,1168162263,460017080#notes:Curated Roll
+dimwishlist:item=3843477312&perks=2414725840,106909392,1168162263,460017080#notes:Curated Roll
+dimwishlist:item=3843477312&perks=1096957638,3177308360,2387244414,460017080#notes:PVP Accuracy Roll
+dimwishlist:item=3843477312&perks=3433396026,3177308360,2779035018,1015611457#notes:PVP Lethality Roll
+dimwishlist:item=3843477312&perks=1096957638,2420895100,2779035018,3425386926#notes:PVE Roll
+
+/// THE RINGING NAIL - Legendary / Energy / Auto Rifle
+dimwishlist:item=93253474&perks=1096957638,1561002382,2848615171,3425386926#notes:Curated Roll
+dimwishlist:item=93253474&perks=3433396027,1561002382,2848615171,3425386926#notes:Curated Roll
+
+/// KINDLED ORCHID - Legendary / Energy / Hand Cannon
+dimwishlist:item=2575506895&perks=4090651448,4134353779,1015611457,3425386926#notes:Curated Roll
+dimwishlist:item=2575506895&perks=1482024992,3142289711,1015611457,3425386926#notes:PVP God Roll
+dimwishlist:item=2575506895&perks=1482024992,106909392,1015611457,3425386926#notes:PVE God Roll
+dimwishlist:item=2575506895&perks=1482024992,106909392,3708227201,3425386926#notes:PVE Ad clear God Roll
+
+/// TATARA GAZE - Legendary / Energy / Sniper Rifle
+dimwishlist:item=1449922174&perks=3661387068,3142289711,957782887,2551157718#notes:Curated Roll
+dimwishlist:item=1449922174&perks=1840239774,3230963543,957782887,1015611457#notes:PVP God Roll
+
+/// HAMMERHEAD - Legendary / Power / Machine Gun
+dimwishlist:item=603242241&perks=3250034553,1968497646,2779035018,3425386926#notes:Curated Roll
+dimwishlist:item=603242241&perks=202670084,2420895100,2779035018,3425386926#notes:M&K PVE God Roll
+dimwishlist:item=603242241&perks=3661387068,2420895100,2779035018,3425386926#notes:Controller PVE God Roll
+dimwishlist:item=603242241&perks=202670084,1561002382,1890422124,2213355989#notes:M&K PVP God Roll
+dimwishlist:item=603242241&perks=3661387068,1561002382,1890422124,2213355989#notes:Controller PVP God Roll
+
+/// STRYKER'S SURE-HAND - Legendary / Power / Sword
+dimwishlist:item=3704653637&perks=938542991,52780822,354401740,3708227201#notes:Curated Roll
+dimwishlist:item=3704653637&perks=3666208348,2349202967,2590710093,3708227201#notes:PVE God Roll
+
+
+/// Black Armory World Drop Weapons
+
+/// BAD NEWS XF4354 - Legendary / Kinetic / Hand Cannon
+dimwishlist:item=2824241403&perks=1926090092,106909392,1168162263,1015611457#notes:PVP Two-Tap
+
+/// ATALANTA-D XG1992 - Legendary / Kinetic / Submachine Gun
+dimwishlist:item=2422664927&perks=2054312700,1885400500,2387244414,1890422124#notes:Decent PVP Roll
+
+/// BALIGANT XU7743 - Legendary / Kinetic / Shotgun
+dimwishlist:item=3461377698&perks=1482024992,3142289711,3161816588,957782887#notes:Decent PVP Roll
+
+/// SHOW OF FORCE XF4865 - Legendary / Kinetic / Sniper Rifle
+dimwishlist:item=4148143418&perks=893526892,106909392,957782887,588594999#notes:Decent PVP Roll
+
+/// GALLIARD-42 XN7568 - Legendary / Energy / Auto Rifle
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1168162263,1015611457#notes:Decent Roll
+
+/// SWIFT RIDE XE8375 - Legendary / Energy / Pulse Rifle
+dimwishlist:item=1386601612&perks=3151536500,3177308360,2846385770,1015611457#notes:Decent PVP Roll
+dimwishlist:item=1386601612&perks=3151536500,2420895100,1168162263,3425386926#notes:Decent PVE Roll
+
+/// TANGO-45 XK5094 - Legendary / Energy / Scout Rifle
+dimwishlist:item=20025671&perks=3151536500,106909392,1866048759,3038247973#notes:Decent PVP Roll
+
+/// DEAD MAN WALKING XX7463 - Legendary / Energy / Sidearm
+dimwishlist:item=3751622019&perks=445755705,3142289711,4071163871,2846385770#notes:Decent Roll
+
+/// ACANTHA-D XK8434 - Legendary / Power / Grenade Launcher
+dimwishlist:item=1757129747&perks=1441682018,409831596,3300816228,706527188#notes:Decent PVP Roll
+
+/// HOOSEGOW XE5837 - Legendary / Power / Rocket Launcher
+dimwishlist:item=2817798849&perks=1441682018,2822142346,2846385770,1275731761#notes:Decent PVPand Ad clear Roll
+
+
+/// Raid - Scourge of the Past
+
+/// ANARCHY - Exotic / Power / Grenade Launcher
+dimwishlist:item=2376481550&perks=389268985,3525010810,2822142346,588594999,3465198467
+
+/// THREAT LEVEL - Legendary / Kinetic / Shotgun
+dimwishlist:item=1664372054&perks=1300023272,679225683,2360754333,1631667848#notes:Curated Roll
+
+/// NO FEELINGS - Legendary / Energy / Scout Rifle
+dimwishlist:item=1931556011&perks=3433396026,1087426260,4267945040,2387244414#notes:Curated Roll
+dimwishlist:item=1931556011&perks=2414725841,1087426260,4267945040,2387244414#notes:Curated Roll
+dimwishlist:item=1931556011&perks=3433396026,3177308360,247725512,2551157718#notes:PVP God Roll
+
+/// TEMPERED DYNAMO - Legendary / Energy / Fusion Rifle
+dimwishlist:item=2753269585&perks=3433396027,3868766766,1600092898,3425386926#notes:Curated Roll
+dimwishlist:item=2753269585&perks=1096957638,3868766766,1600092898,3425386926#notes:Curated Roll
+dimwishlist:item=2753269585&perks=3433396026,1687452232,47981717,2213355989#notes:PVP God Roll
+
+/// BELLOWING GIANT - Legendary / Power / Rocket Launcher
+dimwishlist:item=2186258845&perks=3809316345,3796465595,3977735242,1275731761#notes:Curated Roll

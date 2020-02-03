@@ -1,0 +1,168 @@
+title:MrAdequate's Shadowkeep and Season of the Undying God Rolls
+
+description:Work in Progress
+
+
+/// World Drops
+
+/// MONTE CARLO - Exotic / Kinetic / Auto Rifle
+dimwishlist:item=4068264807&perks=1484442054,1840239774,1561002382,2814973067,3465198467
+
+
+/// Ritual Weapons
+
+/// RANDY'S THROWING KNIFE - Legendary / Kinetic / Scout Rifle
+dimwishlist:item=3535742959&perks=1840239774,2420895100,247725512,1015611457
+dimwishlist:item=3535742959&perks=1840239774,2420895100,247725512,2387244414
+dimwishlist:item=3535742959&perks=1840239774,2420895100,957782887,1015611457
+dimwishlist:item=3535742959&perks=1840239774,2420895100,957782887,2387244414
+
+/// EXIT STRATEGY - Legendary / Kinetic / Submachine Gun
+dimwishlist:item=4227181568&perks=839105230,1885400500,205890336,4082225868
+dimwishlist:item=4227181568&perks=839105230,1885400500,205890336,3708227201
+dimwishlist:item=4227181568&perks=839105230,1885400500,4071163871,4082225868
+dimwishlist:item=4227181568&perks=839105230,1885400500,4071163871,3708227201
+
+/// EDGEWISE - Legendary / Power / Machine Gun
+dimwishlist:item=847329160&perks=1392496348,679225683,2779035018,3425386926
+dimwishlist:item=847329160&perks=1392496348,679225683,2779035018,3523296417
+dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3425386926
+dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3523296417
+
+
+/// Season Pass
+
+/// ERIANA'S VOW - Exotic / Energy / Hand Cannon
+dimwishlist:item=3524313097&perks=3174300811,1467527085,3142289711,1687327062,862848869
+
+/// LEVIATHAN'S BREATH - Exotic / Power / Combat Bow
+dimwishlist:item=2591746970&perks=1699724249,265542500,3429800428,2399646028
+
+/// PLUPERFECT - Legendary / Kinetic / Auto Rifle
+dimwishlist:item=1952163498&perks=4090651448,1885400500,1168162263,1015611457#notes:PVE
+dimwishlist:item=1952163498&perks=4090651448,1885400500,1015611457,3513791699#notes:PVP
+
+/// TEMPORAL CLAUSE - Legendary / Power / Machine Gun
+dimwishlist:item=3369545945&perks=4090651448,1087426260,2010801679,3425386926#notes:Ad Clear
+
+
+/// Seasonal Activity - Vex Offensive
+
+/// IMPERATIVE - Legendary / Kinetic / Scout Rifle
+dimwishlist:item=2314999489&perks=4090651448,106909392,2866798147,3038247973#notes:PVP - The Flinchinator
+dimwishlist:item=2314999489&perks=4090651448,106909392,1820235745,3425386926#notes:Ad Clear
+
+/// OPTATIVE - Legendary / Energy / Hand Cannon
+dimwishlist:item=2138599001&perks=1840239774,106909392,247725512,1015611457#notes:PVP
+
+/// SUBJUNCTIVE - Legendary / Energy / Submachine Gun
+dimwishlist:item=2663204025&perks=3661387068,1885400500,1168162263,2458213969#notes:PVE
+dimwishlist:item=2663204025&perks=3661387068,1885400500,706527188,2458213969#notes:PVP
+
+/// ADHORTATIVE - Legendary / Energy / Pulse Rifle
+dimwishlist:item=1167153950&perks=839105230,1885400500,2779035018,2458213969#notes:Ad Clear (MKC)
+dimwishlist:item=1167153950&perks=839105230,1885400500,2779035018,3425386926#notes:Ad Clear (Rampage)
+
+
+/// Destination - The Moon
+
+/// DEATHBRINGER - Exotic / Power / Rocket Launcher
+dimwishlist:item=2232171099&perks=411799453,1478423395,2985827016,3333994164,3465198467
+
+/// LOUD LULLABY - Legendary / Kinetic / Hand Cannon
+dimwishlist:item=3924212056&perks=4090651448,106909392,1168162263,2458213969#notes:Ad Clear (MKC)
+dimwishlist:item=3924212056&perks=4090651448,106909392,1820235745,3425386926#notes:Ad Clear (Rampage)
+
+/// ONE SMALL STEP - Legendary / Kinetic / Shotgun
+dimwishlist:item=1016668089&perks=4090651448,106909392,1631667848,2679249093#notes:DPS
+dimwishlist:item=1016668089&perks=4090651448,3142289711,706527188,47981717#notes:PVP
+
+/// TRANQUILITY - Legendary / Kinetic / Sniper Rifle
+dimwishlist:item=1645386487&perks=1840239774,3142289711,2869569095,1771339417#notes:DPS
+dimwishlist:item=1645386487&perks=1840239774,106909392,2866798147,957782887#notes:PVP
+
+/// ARC LOGIC - Legendary / Energy / Auto Rifle
+dimwishlist:item=2723909519&perks=839105230,106909392,1820235745,3425386926#notes:Ad Clear (Rampage)
+dimwishlist:item=2723909519&perks=839105230,106909392,3643424744,3400784728#notes:Major Clear
+dimwishlist:item=2723909519&perks=1467527085,3177308360,588594999,2846385770#notes:PVP
+
+/// EVERY WAKING MOMENT - Legendary / Energy / Submachine Gun
+dimwishlist:item=4277547616&perks=202670084,1885400500,1820235745,4082225868#notes:Ad Clear
+dimwishlist:item=4277547616&perks=202670084,1885400500,2387244414,1015611457#notes:PVP
+
+/// DREAM BREAKER - Legendary / Energy / Fusion Rifle
+dimwishlist:item=2931957300&perks=1467527085,1687452232,2846385770,1683379515#notes:Major Clear
+dimwishlist:item=2931957300&perks=1467527085,1687452232,2846385770,2213355989#notes:PVP
+
+/// A FINE MEMORIAL - Legendary / Power / Machine Gun
+dimwishlist:item=3325778512&perks=1467527085,1885400500,4071163871,3708227201#notes:Close-range Ad Clear
+
+/// LOVE AND DEATH - Legendary / Power / Grenade Launcher
+dimwishlist:item=3690523502&perks=981914802,3301904089,2869569095,2888557110#notes:DPS
+
+/// NIGHT TERROR - Legendary / Power / Sword
+dimwishlist:item=3870811754&perks=938542991,2349202967,1749209109,3913600130#notes:PVE
+dimwishlist:item=3870811754&perks=938542991,2349202967,2590710093,354401740#notes:PVP
+
+
+/// Destination Activity - Altars of Sorrow
+
+/// BLASPHEMER - Legendary / Kinetic / Shotgun
+dimwishlist:item=2782847179&perks=4090651448,3142289711,706527188,47981717#notes:PVP backup weapon
+
+/// APOSTATE - Legendary / Energy / Sniper Rifle
+dimwishlist:item=2164448701&perks=1840239774,3142289711,2846385770,957782887#notes:PVP
+dimwishlist:item=2164448701&perks=1840239774,3142289711,2846385770,2551157718#notes:PVP super killer
+
+/// HERETIC - Legendary / Power / Rocket Launcher
+dimwishlist:item=3067821200&perks=3798852852,3796465595,3523296417,1275731761#notes:For use with a grenade build
+
+
+/// Dungeon - Pit of Heresy
+
+/// XENOPHAGE - Exotic / Power / Machine Gun
+dimwishlist:item=1395261499&perks=2261491232,202670084,1561002382,2846385770,3465198467
+
+/// PREMONITION - Legendary / Energy / Pulse Rifle
+dimwishlist:item=208088207&perks=3250034553,1885400500,1168162263,1015611457#notes:Ad clear
+dimwishlist:item=208088207&perks=3250034553,1561002382,2846385770,460017080#notes:PVP
+
+
+/// Raid - Garden of Salvation
+
+/// DIVINITY - Exotic / Energy / Trace Rifle
+dimwishlist:item=4103414242&perks=1797707170,1392496348,3868766766,1185480639,3465198467
+
+/// ACCRUED REDEMPTION - Legendary / Kinetic / Combat Bow
+dimwishlist:item=4095896073&perks=1784898267,3311977193,201365942,3425386926#notes:Ad Clear
+dimwishlist:item=4095896073&perks=1784898267,3311977193,2866798147,3365897133#notes:PVP
+
+/// SACRED PROVENANCE - Legendary / Kinetic / Pulse Rifle
+dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457#notes:PVP
+
+/// ANCIENT GOSPEL - Legendary / Energy / Hand Cannon
+dimwishlist:item=48643186&perks=1482024992,106909392,1168162263,2848615171#notes:Ad Clear
+dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2846385770#notes:PVP
+
+/// RECKLESS ORACLE - Legendary / Energy / Auto Rifle
+dimwishlist:item=3385326721&perks=3661387068,1561002382,1168162263,1015611457#notes:Outlaw-KC
+
+/// PROPHET OF DOOM - Legendary / Energy / Shotgun
+dimwishlist:item=4020742303&perks=1332244541,1087426260,2779035018,2679249093#notes:DPS
+dimwishlist:item=4020742303&perks=1332244541,3142289711,2117683199,47981717#notes:PVP Max Range
+
+/// OMNISCIENT EYE - Legendary / Energy / Sniper Rifle
+dimwishlist:item=3454326177&perks=1482024992,106909392,1168162263,2458213969#notes:PVE
+dimwishlist:item=3454326177&perks=1482024992,3142289711,2866798147,957782887#notes:PVP
+
+/// ZEALOT'S REWARD - Legendary / Energy / Fusion Rifle
+dimwishlist:item=2209003210&perks=839105230,1687452232,2779035018,3425386926#notes:Ad Clear
+dimwishlist:item=2209003210&perks=839105230,1687452232,1645158859,2213355989#notes:PVP
+dimwishlist:item=2209003210&perks=839105230,1687452232,1645158859,1600092898#notes:PVP backup weapon
+
+
+/// Event - Festival of the Lost
+
+/// BRAYTECH WEREWOLF - Legendary / Kinetic / Auto Rifle
+dimwishlist:item=528834068&perks=3250034553,1968497646,2387244414,2458213969#notes:Curated Roll
+dimwishlist:item=528834068&perks=4090651448,1087426260,1168162263,1015611457#notes:Best Random Roll
