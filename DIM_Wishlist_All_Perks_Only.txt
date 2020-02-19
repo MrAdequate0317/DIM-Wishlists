@@ -657,8 +657,10 @@ dimwishlist:item=1251729046&perks=2039302152,3511092054#notes:PVP stability roll
 dimwishlist:item=1251729046&perks=1820235745,3708227201#notes:Surrounded Ad Clear
 
 /// PATRON OF LOST CAUSES - Legendary / Kinetic / Scout Rifle
+dimwishlist:item=2723241847&perks=4267945040,3038247973#notes:Full-Auto Ad Clear and PVP
 dimwishlist:item=2723241847&perks=247725512,3038247973#notes:Ad Clear and PVP
-dimwishlist:item=2723241847&perks=247725512,3511092054#notes:Stability Roll
+dimwishlist:item=2723241847&perks=247725512,1546637391#notes:PVP SUper Killer
+dimwishlist:item=2723241847&perks=247725512,1774574192#notes:PVE Osmosis Roll
 
 /// BREACHLIGHT - Legendary / Kinetic / Sidearm
 dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:MKC Ad Clear
@@ -723,9 +725,11 @@ dimwishlist:item=1807343361&perks=1631667848,2679249093#notes:DPS
 dimwishlist:item=1807343361&perks=2869569095,3708227201#notes:Ad Clear
 
 /// URIEL'S GIFT - Legendary / Energy / Auto Rifle
+dimwishlist:item=3863882743&perks=1359896290,1890422124#notes:PVP Stable roll
 dimwishlist:item=3863882743&perks=1359896290,588594999#notes:PVP consistency roll
-dimwishlist:item=3863882743&perks=706527188,1015611457#notes:Max Handling
-dimwishlist:item=3863882743&perks=1359896290,1683379515#notes:Barrier Weapon
+dimwishlist:item=3863882743&perks=1359896290,1645158859#notes:PVP Ranged roll
+dimwishlist:item=3863882743&perks=280464955,1015611457#notes:PVP Crouchfire Roll
+dimwishlist:item=3863882743&perks=2869569095,1683379515#notes:Barrier Weapon
 
 /// LAST HOPE - Legendary / Energy / Sidearm
 dimwishlist:item=3622137132&perks=2846385770,1890422124#notes:PVP Roll
@@ -733,6 +737,8 @@ dimwishlist:item=3622137132&perks=2779035018,2458213969#notes:PVE Roll
 
 /// ELATHA FR4 - Legendary / Energy / Fusion Rifle
 dimwishlist:item=4106983932&perks=706527188,1600092898#notes:PVP backup weapon
+dimwishlist:item=4106983932&perks=1866048759,1600092898#notes:PVP Hipfire Roll
+dimwishlist:item=4106983932&perks=2866798147,957782887#notes:PVP Quick ADS Roll
 dimwishlist:item=4106983932&perks=2869569095,3708227201#notes:Ad clear and Major clear
 
 /// MOS EPOCH III - Legendary / Power / Rocket Launcher
