@@ -14,10 +14,10 @@ dimwishlist:item=66875353&perks=965619221,1885400500,1645158859,2213355989#notes
 /// Exotic Quests
 
 /// THE LAST WORD - Exotic / Kinetic / Hand Cannon
-dimwishlist:item=1364093401&perks=2770223582,4090651448,3142289711,1866048759,3917450714
+dimwishlist:item=1364093401
 
 /// IZANAGI'S BURDEN - Exotic / Kinetic / Sniper Rifle
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+dimwishlist:item=3211806999
 
 
 /// Pinnacle Weapons
@@ -59,10 +59,10 @@ dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,47981717#note
 /// Black Armory Forge Weapons
 
 /// LE MONARQUE - Exotic / Energy / Combat Bow
-dimwishlist:item=3588934839&perks=2186532310,1784898267,16392701,957782887
+dimwishlist:item=3588934839
 
 /// JÖTUNN - Exotic / Energy / Fusion Rifle
-dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869
+dimwishlist:item=417164956
 
 /// THE SPITEFUL FANG - Legendary / Kinetic / Combat Bow
 dimwishlist:item=421573768&perks=1784898267,3429800428,201365942,3365897133#notes:Curated Roll
@@ -137,7 +137,7 @@ dimwishlist:item=2817798849&perks=1441682018,2822142346,2846385770,1275731761#no
 /// Raid - Scourge of the Past
 
 /// ANARCHY - Exotic / Power / Grenade Launcher
-dimwishlist:item=2376481550&perks=389268985,3525010810,2822142346,588594999,3465198467
+dimwishlist:item=2376481550
 
 /// THREAT LEVEL - Legendary / Kinetic / Shotgun
 dimwishlist:item=1664372054&perks=1300023272,679225683,2360754333,1631667848#notes:Curated Roll
