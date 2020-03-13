@@ -38,7 +38,7 @@ dimwishlist:item=2326716489&perks=1840239774,791862061,2117683199,47981717#notes
 dimwishlist:item=136525518&perks=3798852852,2822142346,957782887,3977735242#notes:PVP
 
 
-/// Season of Dawn
+/// Season of the Worthy
 
 /// POINT OF THE STAG - Legendary / Energy / Combat Bow
 dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,1546637391
@@ -65,10 +65,10 @@ dimwishlist:item=66875353&perks=965619221,1885400500,1645158859,2213355989#notes
 /// Exotic Quests
 
 /// THE LAST WORD - Exotic / Kinetic / Hand Cannon
-dimwishlist:item=1364093401&perks=2770223582,4090651448,3142289711,1866048759,3917450714
+dimwishlist:item=1364093401
 
 /// IZANAGI'S BURDEN - Exotic / Kinetic / Sniper Rifle
-dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,1168162263,3465198467
+dimwishlist:item=3211806999
 
 
 /// Pinnacle Weapons
@@ -110,10 +110,10 @@ dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,47981717#note
 /// Black Armory Forge Weapons
 
 /// LE MONARQUE - Exotic / Energy / Combat Bow
-dimwishlist:item=3588934839&perks=2186532310,1784898267,16392701,957782887
+dimwishlist:item=3588934839
 
 /// JÖTUNN - Exotic / Energy / Fusion Rifle
-dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869
+dimwishlist:item=417164956
 
 /// THE SPITEFUL FANG - Legendary / Kinetic / Combat Bow
 dimwishlist:item=421573768&perks=1784898267,3429800428,201365942,3365897133#notes:Curated Roll
@@ -188,7 +188,7 @@ dimwishlist:item=2817798849&perks=1441682018,2822142346,2846385770,1275731761#no
 /// Raid - Scourge of the Past
 
 /// ANARCHY - Exotic / Power / Grenade Launcher
-dimwishlist:item=2376481550&perks=389268985,3525010810,2822142346,588594999,3465198467
+dimwishlist:item=2376481550
 
 /// THREAT LEVEL - Legendary / Kinetic / Shotgun
 dimwishlist:item=1664372054&perks=1300023272,679225683,2360754333,1631667848#notes:Curated Roll
@@ -215,19 +215,19 @@ dimwishlist:item=2186258845&perks=3809316345,3796465595,3977735242,1275731761#no
 /// Event - The Revelry
 
 /// ARBALEST - Exotic / Kinetic / Linear Fusion Rifle
-dimwishlist:item=2130065553&perks=2564164194,1467527085,2969185026,1683379515,3465198467
+dimwishlist:item=2130065553
 
 
 /// Exotic Quests
 
 /// THORN - Exotic / Kinetic / Hand Cannon
-dimwishlist:item=3973202132&perks=1863355414,4090651448,3142289711,2921090754,3917450714
+dimwishlist:item=3973202132
 
 
 /// Mission - Zero Hour
 
 /// OUTBREAK PERFECTED - Exotic / Kinetic / Pulse Rifle
-dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954
+dimwishlist:item=400096939
 
 
 /// Pinnacle Weapons
@@ -316,10 +316,10 @@ dimwishlist:item=715338174&perks=2827049491,3625355092,354401740,818211479#notes
 /// Exotic Quests
 
 /// ROSE - Legendary / Kinetic / Hand Cannon
-dimwishlist:item=2429822976&perks=2467967826,2635532173,1528281896,2078097559#notes:Decent on M&K
+dimwishlist:item=2429822976
 
 /// LUMINA - Exotic / Kinetic / Hand Cannon
-dimwishlist:item=3512014804&perks=2144092201,3661387068,3142289711,743139589,862848869
+dimwishlist:item=3512014804
 
 
 /// Pinnacle Weapons
@@ -337,7 +337,7 @@ dimwishlist:item=578459533&perks=3798852852,3032599245,3300816228,3194351027#not
 /// The Menagerie
 
 /// TRUTH - Exotic / Power / Rocket Launcher
-dimwishlist:item=1201830623&perks=2491817779,1478423395,2822142346,2911329003,3465198467
+dimwishlist:item=1201830623
 
 /// AUSTRINGER - Legendary / Kinetic / Hand Cannon
 dimwishlist:item=2429822977&perks=4090651448,106909392,1168162263,3425386926#notes:General PVE
@@ -390,13 +390,13 @@ dimwishlist:item=569799274&perks=3666208348,2363751990,2030760728,3016987351#not
 /// Destination - The Tribute Hall
 
 /// BAD JUJU - Exotic / Kinetic / Pulse Rifle
-dimwishlist:item=2816212794&perks=4004944400,3250034553,3177308360,1866048759,1067908860
+dimwishlist:item=2816212794
 
 
 /// Raid - Crown of Sorrow
 
 /// TARRABAH - Exotic / Energy / Submachine Gun
-dimwishlist:item=3110698812&perks=2540536653,1467527085,1968497646,3351002503,990298390
+dimwishlist:item=3110698812
 
 /// GAHLRAN'S RIGHT HAND - Legendary / Kinetic / Auto Rifle
 dimwishlist:item=1286686760&perks=839105230,3177308360,3643424744,3523296417#notes:Curated Roll
@@ -424,10 +424,11 @@ dimwishlist:item=1496419775&perks=4090651448,1561002382,2779035018,1015611457#no
 /// Shadowkeep and Season of Undying
 
 
-/// World Drops
+/// Event - Festival of the Lost
 
-/// MONTE CARLO - Exotic / Kinetic / Auto Rifle
-dimwishlist:item=4068264807&perks=1484442054,1840239774,1561002382,2814973067,3465198467
+/// BRAYTECH WEREWOLF - Legendary / Kinetic / Auto Rifle
+dimwishlist:item=528834068&perks=3250034553,1968497646,2387244414,2458213969#notes:Curated Roll
+dimwishlist:item=528834068&perks=4090651448,1087426260,1168162263,1015611457#notes:Best Random Roll
 
 
 /// Ritual Weapons
@@ -454,7 +455,7 @@ dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3523296417
 /// Season Pass
 
 /// ERIANA'S VOW - Exotic / Energy / Hand Cannon
-dimwishlist:item=3524313097&perks=3174300811,1467527085,3142289711,1687327062,862848869
+dimwishlist:item=3524313097
 
 /// LEVIATHAN'S BREATH - Exotic / Power / Combat Bow
 dimwishlist:item=2591746970&perks=1699724249,265542500,3429800428,2399646028
@@ -488,7 +489,7 @@ dimwishlist:item=1167153950&perks=839105230,1885400500,2779035018,3425386926#not
 /// Destination - The Moon
 
 /// DEATHBRINGER - Exotic / Power / Rocket Launcher
-dimwishlist:item=2232171099&perks=411799453,1478423395,2985827016,3333994164,3465198467
+dimwishlist:item=2232171099
 
 /// LOUD LULLABY - Legendary / Kinetic / Hand Cannon
 dimwishlist:item=3924212056&perks=4090651448,106909392,1168162263,2458213969#notes:Ad Clear (MKC)
@@ -542,7 +543,7 @@ dimwishlist:item=3067821200&perks=3798852852,3796465595,3523296417,1275731761#no
 /// Dungeon - Pit of Heresy
 
 /// XENOPHAGE - Exotic / Power / Machine Gun
-dimwishlist:item=1395261499&perks=2261491232,202670084,1561002382,2846385770,3465198467
+dimwishlist:item=1395261499
 
 /// PREMONITION - Legendary / Energy / Pulse Rifle
 dimwishlist:item=208088207&perks=3250034553,1885400500,1168162263,1015611457#notes:Ad clear
@@ -552,7 +553,7 @@ dimwishlist:item=208088207&perks=3250034553,1561002382,2846385770,460017080#note
 /// Raid - Garden of Salvation
 
 /// DIVINITY - Exotic / Energy / Trace Rifle
-dimwishlist:item=4103414242&perks=1797707170,1392496348,3868766766,1185480639,3465198467
+dimwishlist:item=4103414242
 
 /// ACCRUED REDEMPTION - Legendary / Kinetic / Combat Bow
 dimwishlist:item=4095896073&perks=1784898267,3311977193,201365942,3425386926#notes:Ad Clear
@@ -582,19 +583,21 @@ dimwishlist:item=2209003210&perks=839105230,1687452232,1645158859,2213355989#not
 dimwishlist:item=2209003210&perks=839105230,1687452232,1645158859,1600092898#notes:PVP backup weapon
 
 
-/// Event - Festival of the Lost
+/// World Drops
 
-/// BRAYTECH WEREWOLF - Legendary / Kinetic / Auto Rifle
-dimwishlist:item=528834068&perks=3250034553,1968497646,2387244414,2458213969#notes:Curated Roll
-dimwishlist:item=528834068&perks=4090651448,1087426260,1168162263,1015611457#notes:Best Random Roll
+/// MONTE CARLO - Exotic / Kinetic / Auto Rifle
+dimwishlist:item=4068264807
 
 
 
 
 /// Season of Dawn
+title:MrAdequate's Season of Dawn God Rolls
+
+description:Work in Progress
 
 
-/// Event Weapons
+/// Event - The Dawning
 
 /// COLD FRONT - Legendary / Kinetic / Submachine Gun
 dimwishlist:item=1506719573&perks=3250034553,3230963543,2387244414,1774574192#notes:Curated Roll
@@ -607,10 +610,10 @@ dimwishlist:item=1506719573&perks=1840239774,106909392,2779035018,1774574192#not
 /// Exotic Quests
 
 /// BASTION - Exotic / Kinetic / Fusion Rifle
-dimwishlist:item=2415517654&perks=1186480754,3250034553,1687452232,4190643473,3465198467
+dimwishlist:item=2415517654
 
 /// DEVIL'S RUIN - Exotic / Energy / Sidearm
-dimwishlist:item=3824106094&perks=334466122,1467527085,2969185026,1059301209,3438534621
+dimwishlist:item=3824106094
 
 
 /// Ritual Weapons
@@ -637,7 +640,7 @@ dimwishlist:item=2697058914&perks=1392496348,689005463,588594999,2551157718
 /// Season Pass
 
 /// SYMMETRY - Exotic / Energy / Scout Rifle
-dimwishlist:item=4017959782&perks=4185339856,3250034553,3868766766,127335543,3465198467
+dimwishlist:item=4017959782
 
 /// TROPHY HUNTER - Legendary / Energy / Sniper Rifle
 dimwishlist:item=4166221755&perks=839105230,3142289711,3096702027,2848615171#notes:Curated Roll
@@ -716,7 +719,7 @@ dimwishlist:item=946443267&perks=1840239774,2680121939,247725512,2284787283#note
 dimwishlist:item=946443267&perks=1840239774,2680121939,247725512,3425386926#notes:Ad Clear
 
 
-/// Word Drop Weapons
+/// Word Drops
 
 /// THE OLD FASHIONED - Legendary / Kinetic / Hand Cannon
 dimwishlist:item=3569802112&perks=1926090093,106909392,2779035018,1015611457#notes:Ad Clear and PVP
