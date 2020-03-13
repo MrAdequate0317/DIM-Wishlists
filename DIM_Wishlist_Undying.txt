@@ -35,7 +35,7 @@ dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3523296417
 dimwishlist:item=3524313097
 
 /// LEVIATHAN'S BREATH - Exotic / Power / Combat Bow
-dimwishlist:item=2591746970&perks=1699724249,265542500,3429800428,2399646028
+dimwishlist:item=2591746970
 
 /// PLUPERFECT - Legendary / Kinetic / Auto Rifle
 dimwishlist:item=1952163498&perks=4090651448,1885400500,1168162263,1015611457#notes:PVE
