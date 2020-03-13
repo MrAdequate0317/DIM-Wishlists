@@ -4,19 +4,19 @@ title:MrAdequate's Season of the Drifter God Rolls
 /// Event - The Revelry
 
 /// ARBALEST - Exotic / Kinetic / Linear Fusion Rifle
-dimwishlist:item=2130065553&perks=2564164194,1467527085,2969185026,1683379515,3465198467
+dimwishlist:item=2130065553
 
 
 /// Exotic Quests
 
 /// THORN - Exotic / Kinetic / Hand Cannon
-dimwishlist:item=3973202132&perks=1863355414,4090651448,3142289711,2921090754,3917450714
+dimwishlist:item=3973202132
 
 
 /// Mission - Zero Hour
 
 /// OUTBREAK PERFECTED - Exotic / Kinetic / Pulse Rifle
-dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954
+dimwishlist:item=400096939
 
 
 /// Pinnacle Weapons
