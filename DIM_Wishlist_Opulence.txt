@@ -4,10 +4,10 @@ title:MrAdequate's Season of Opulence God Rolls
 /// Exotic Quests
 
 /// ROSE - Legendary / Kinetic / Hand Cannon
-dimwishlist:item=2429822976&perks=2467967826,2635532173,1528281896,2078097559#notes:Decent on M&K
+dimwishlist:item=2429822976
 
 /// LUMINA - Exotic / Kinetic / Hand Cannon
-dimwishlist:item=3512014804&perks=2144092201,3661387068,3142289711,743139589,862848869
+dimwishlist:item=3512014804
 
 
 /// Pinnacle Weapons
@@ -25,7 +25,7 @@ dimwishlist:item=578459533&perks=3798852852,3032599245,3300816228,3194351027#not
 /// The Menagerie
 
 /// TRUTH - Exotic / Power / Rocket Launcher
-dimwishlist:item=1201830623&perks=2491817779,1478423395,2822142346,2911329003,3465198467
+dimwishlist:item=1201830623
 
 /// AUSTRINGER - Legendary / Kinetic / Hand Cannon
 dimwishlist:item=2429822977&perks=4090651448,106909392,1168162263,3425386926#notes:General PVE
@@ -78,13 +78,13 @@ dimwishlist:item=569799274&perks=3666208348,2363751990,2030760728,3016987351#not
 /// Destination - The Tribute Hall
 
 /// BAD JUJU - Exotic / Kinetic / Pulse Rifle
-dimwishlist:item=2816212794&perks=4004944400,3250034553,3177308360,1866048759,1067908860
+dimwishlist:item=2816212794
 
 
 /// Raid - Crown of Sorrow
 
 /// TARRABAH - Exotic / Energy / Submachine Gun
-dimwishlist:item=3110698812&perks=2540536653,1467527085,1968497646,3351002503,990298390
+dimwishlist:item=3110698812
 
 /// GAHLRAN'S RIGHT HAND - Legendary / Kinetic / Auto Rifle
 dimwishlist:item=1286686760&perks=839105230,3177308360,3643424744,3523296417#notes:Curated Roll
