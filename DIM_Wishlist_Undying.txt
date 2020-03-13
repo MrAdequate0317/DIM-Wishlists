@@ -1,12 +1,11 @@
 title:MrAdequate's Shadowkeep and Season of the Undying God Rolls
 
-description:Work in Progress
 
+/// Event - Festival of the Lost
 
-/// World Drops
-
-/// MONTE CARLO - Exotic / Kinetic / Auto Rifle
-dimwishlist:item=4068264807&perks=1484442054,1840239774,1561002382,2814973067,3465198467
+/// BRAYTECH WEREWOLF - Legendary / Kinetic / Auto Rifle
+dimwishlist:item=528834068&perks=3250034553,1968497646,2387244414,2458213969#notes:Curated Roll
+dimwishlist:item=528834068&perks=4090651448,1087426260,1168162263,1015611457#notes:Best Random Roll
 
 
 /// Ritual Weapons
@@ -33,7 +32,7 @@ dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3523296417
 /// Season Pass
 
 /// ERIANA'S VOW - Exotic / Energy / Hand Cannon
-dimwishlist:item=3524313097&perks=3174300811,1467527085,3142289711,1687327062,862848869
+dimwishlist:item=3524313097
 
 /// LEVIATHAN'S BREATH - Exotic / Power / Combat Bow
 dimwishlist:item=2591746970&perks=1699724249,265542500,3429800428,2399646028
@@ -67,7 +66,7 @@ dimwishlist:item=1167153950&perks=839105230,1885400500,2779035018,3425386926#not
 /// Destination - The Moon
 
 /// DEATHBRINGER - Exotic / Power / Rocket Launcher
-dimwishlist:item=2232171099&perks=411799453,1478423395,2985827016,3333994164,3465198467
+dimwishlist:item=2232171099
 
 /// LOUD LULLABY - Legendary / Kinetic / Hand Cannon
 dimwishlist:item=3924212056&perks=4090651448,106909392,1168162263,2458213969#notes:Ad Clear (MKC)
@@ -121,7 +120,7 @@ dimwishlist:item=3067821200&perks=3798852852,3796465595,3523296417,1275731761#no
 /// Dungeon - Pit of Heresy
 
 /// XENOPHAGE - Exotic / Power / Machine Gun
-dimwishlist:item=1395261499&perks=2261491232,202670084,1561002382,2846385770,3465198467
+dimwishlist:item=1395261499
 
 /// PREMONITION - Legendary / Energy / Pulse Rifle
 dimwishlist:item=208088207&perks=3250034553,1885400500,1168162263,1015611457#notes:Ad clear
@@ -131,7 +130,7 @@ dimwishlist:item=208088207&perks=3250034553,1561002382,2846385770,460017080#note
 /// Raid - Garden of Salvation
 
 /// DIVINITY - Exotic / Energy / Trace Rifle
-dimwishlist:item=4103414242&perks=1797707170,1392496348,3868766766,1185480639,3465198467
+dimwishlist:item=4103414242
 
 /// ACCRUED REDEMPTION - Legendary / Kinetic / Combat Bow
 dimwishlist:item=4095896073&perks=1784898267,3311977193,201365942,3425386926#notes:Ad Clear
@@ -161,8 +160,7 @@ dimwishlist:item=2209003210&perks=839105230,1687452232,1645158859,2213355989#not
 dimwishlist:item=2209003210&perks=839105230,1687452232,1645158859,1600092898#notes:PVP backup weapon
 
 
-/// Event - Festival of the Lost
+/// World Drops
 
-/// BRAYTECH WEREWOLF - Legendary / Kinetic / Auto Rifle
-dimwishlist:item=528834068&perks=3250034553,1968497646,2387244414,2458213969#notes:Curated Roll
-dimwishlist:item=528834068&perks=4090651448,1087426260,1168162263,1015611457#notes:Best Random Roll
+/// MONTE CARLO - Exotic / Kinetic / Auto Rifle
+dimwishlist:item=4068264807
