@@ -16,10 +16,10 @@ dimwishlist:item=1506719573&perks=1840239774,106909392,2779035018,1774574192#not
 /// Exotic Quests
 
 /// BASTION - Exotic / Kinetic / Fusion Rifle
-dimwishlist:item=2415517654&perks=1186480754,3250034553,1687452232,4190643473,3465198467
+dimwishlist:item=2415517654
 
 /// DEVIL'S RUIN - Exotic / Energy / Sidearm
-dimwishlist:item=3824106094&perks=334466122,1467527085,2969185026,1059301209,3438534621
+dimwishlist:item=3824106094
 
 
 /// Ritual Weapons
@@ -125,7 +125,7 @@ dimwishlist:item=946443267&perks=1840239774,2680121939,247725512,2284787283#note
 dimwishlist:item=946443267&perks=1840239774,2680121939,247725512,3425386926#notes:Ad Clear
 
 
-/// Word Drop Weapons
+/// Word Drops
 
 /// THE OLD FASHIONED - Legendary / Kinetic / Hand Cannon
 dimwishlist:item=3569802112&perks=1926090093,106909392,2779035018,1015611457#notes:Ad Clear and PVP
