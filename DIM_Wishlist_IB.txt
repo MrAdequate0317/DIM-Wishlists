@@ -33,7 +33,7 @@ dimwishlist:item=2326716489&perks=1840239774,791862061,2117683199,47981717#notes
 dimwishlist:item=136525518&perks=3798852852,2822142346,957782887,3977735242#notes:PVP
 
 
-/// Season of Dawn
+/// Season of the Worthy
 
 /// POINT OF THE STAG - Legendary / Energy / Combat Bow
 dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,1546637391
